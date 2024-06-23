@@ -1,2 +1,2 @@
 # source-code
-All predator-os source code files
+grub live file config source code 
